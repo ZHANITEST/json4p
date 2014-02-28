@@ -25,6 +25,9 @@ Demo
 
 Loadmap
 =======
+  1. porting StringIO for P
+  2. dict type support
+  3. add dump, load method
 
 License
 =======
