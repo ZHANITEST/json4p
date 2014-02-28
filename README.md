@@ -4,13 +4,11 @@ json API for P language(using pyimport function).
 
 It's just for fun, so i don't want report about this. Sorry.
 
-APIs
+Reference
 =====
-    1.json.dumps( mixed object  )
-    Support type: list(O), dict(X), hash(X), set(X)...
-  
-    2.json.loads( json object )
-    Support type: list(O), dict(X), hash(X), set(X)...
+    json[class]
+        .dumps( mixed object ): Support type: list(O), dict(X), hash(X), set(X)...
+        .loads( json object ): Support type: list(O), dict(X), hash(X), set(X)...
 
 Demo
 =====
@@ -26,7 +24,7 @@ Demo
 Loadmap
 =======
   1. porting StringIO for P
-  2. dict type support
+  2. dict,hash type support
   3. add dump, load method
 
 License
