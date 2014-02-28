@@ -1,6 +1,6 @@
 json4p
 ======
-json API for P language.(Alpha qulity yet..)
+json API for P language(using pyimport function).
 
 It's just for fun, so i don't want report about this. Sorry.
 
@@ -22,6 +22,9 @@ Demo
     p> 
     p> list_obj = json.loads( json_obj );
     #list("철수", "영희")
+
+Loadmap
+=======
 
 License
 =======
