@@ -1,14 +1,12 @@
 json4p
 ======
-pyimport로 구현한 P언어용 json 모듈입니다.
-(json API for P language, using pyimport function).
+json API for P language, using pyimport function.
 
-단순히 재미로 만든 것이라 버그 이슈에 대해서는 아직 받을 생각이 없습니다. 죄송합니다.
-(It's just for fun, so i don't want report about this. Sorry. )
+It's just for fun, so i don't want report about this. Sorry.
 
 Install
 ====
-1. Open C:\Program Files (x86)\p\p.lib with 7-zip or another achieve software.
+1. Open "C:\Program Files (x86)\p\p.lib" with 7-zip or another achieve software.
 2. Extract all files at "C:\Program Files (x86)\p\pkg\python".
 3. "git clone https://github.com/XKY/json4p.git" or Zip donwload.
 
