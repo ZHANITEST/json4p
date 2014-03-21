@@ -8,7 +8,7 @@ Install
 ====
 1. Open "C:\Program Files (x86)\p\p.lib" with 7-zip or another achieve software.
 2. Extract all files at "C:\Program Files (x86)\p\pkg\python".
-3. "git clone https://github.com/XKY/json4p.git" or Zip donwload.
+3. "git clone https://github.com/XKY/json4p.git" or Zip download.
 
 Reference
 =====
